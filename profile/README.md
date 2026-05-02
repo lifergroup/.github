@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://lifergroup.com">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leafaas.com">Product</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leaflow.net">Deploy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://idcjk.com">Intelligence</a>
+  <a href="https://lifergroup.com">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leaflow.net">Deploy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://idcjk.com">Intelligence</a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ Developers and small teams shouldn't need to become cloud architects before laun
 <td width="50%" valign="top">
 <h3>🧩&nbsp; Leafaas</h3>
 <p>Core platform. Turns natural-language requirements into executable cloud service delivery workflows — resource matching, deployment, and operations in one pipeline.</p>
-<p><a href="https://leafaas.com"><code>leafaas.com →</code></a></p>
+<p><code>Coming soon</code></p>
 </td>
 <td width="50%" valign="top">
 <h3>🚀&nbsp; Leaflow</h3>
@@ -136,7 +136,7 @@ Developers and small teams shouldn't need to become cloud architects before laun
 LiferGroup
 │
 ├─ lifergroup.com ──── Group hub · newsroom · updates
-├─ leafaas.com ─────── Product directory · commercial entry
+├─ leafaas.com ─────── Product directory · commercial entry (coming soon)
 ├─ leaflow.net ─────── AI app deployment
 ├─ idcjk.com ──────── IDC intelligence platform
 └─ Backwaves ──────── Cross-border network · AI acceleration
@@ -160,7 +160,6 @@ LiferGroup
 
 <p align="center">
   <a href="https://lifergroup.com"><img src="https://img.shields.io/badge/lifergroup.com-website-blue?style=flat-square" /></a>&nbsp;
-  <a href="https://leafaas.com"><img src="https://img.shields.io/badge/leafaas.com-product-blue?style=flat-square" /></a>&nbsp;
   <a href="https://idcjk.com"><img src="https://img.shields.io/badge/idcjk.com-intelligence-blue?style=flat-square" /></a>
 </p>
 
