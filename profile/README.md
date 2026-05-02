@@ -73,32 +73,27 @@ Developers and small teams shouldn't need to become cloud architects before laun
 
 <br/>
 
-## Products & Ecosystem
+## Leafaas Ecosystem
+
+<p><sub><strong>Leaf as a Service</strong> — the unified service ecosystem of LiferGroup.</sub></p>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🧩&nbsp; Leafaas</h3>
-<p>Core platform. Turns natural-language requirements into executable cloud service delivery workflows — resource matching, deployment, and operations in one pipeline.</p>
-<p><code>Coming soon</code></p>
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🚀&nbsp; Leaflow</h3>
 <p>AI application deployment & delivery. Deploy websites, apps, and AI services with minimal config. Less YAML, less ops, more shipping.</p>
 <p><a href="https://leaflow.net"><code>leaflow.net →</code></a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>📡&nbsp; IDCJK</h3>
-<p>Infrastructure intelligence. Maps IDC suppliers, cloud resources, pricing, and supply-chain data. Gives Leafaas the knowledge to make smarter resource decisions.</p>
+<p>Infrastructure intelligence. Maps IDC suppliers, cloud resources, pricing, and supply-chain data for smarter resource decisions.</p>
 <p><a href="https://idcjk.com"><code>idcjk.com →</code></a></p>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🌐&nbsp; Backwaves</h3>
-<p>Cross-border network & AI acceleration. Supports overseas operations, livestreaming, AI platform access, and cross-border e-commerce.</p>
+<p>Cross-border network & AI acceleration. Supports overseas operations, livestreaming, AI platform access, and e-commerce.</p>
 </td>
 </tr>
 </table>
