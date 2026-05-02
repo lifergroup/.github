@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3010,100:3d6131&height=120&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
 <p align="center">
@@ -167,5 +167,5 @@ LiferGroup
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d6131,100:1a3010&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </p>
