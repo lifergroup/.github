@@ -119,6 +119,7 @@ Developers and small teams shouldn't need to become cloud architects before laun
 | **Infra intelligence** | Real-time supply-chain & pricing data for smarter allocation |
 | **Agent-driven ops** | Deployment, monitoring, and scaling handled by AI workflows |
 | **Global acceleration** | Network capabilities optimized for cross-border AI access |
+| **Server marketplace** | Financial-grade stability at competitive prices, ready to deploy |
 
 <br/>
 
