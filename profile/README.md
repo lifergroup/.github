@@ -1,67 +1,177 @@
-# LiferGroup
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=160&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
-**Building AI-native cloud infrastructure for the next generation of builders.**
+<h1 align="center">LiferGroup</h1>
 
-LiferGroup is a young technology group focused on AI infrastructure, cloud service automation, and developer-facing products. We build tools that help individuals, startups, and small teams turn ideas into running online services faster — from describing a requirement, to choosing cloud resources, deploying applications, and maintaining them over time.
+<p align="center">
+  <strong>AI-native cloud infrastructure for the next generation of builders.</strong>
+</p>
+
+<p align="center">
+  <code>Build fast. Stay alive. Ship the future.</code>
+</p>
+
+<p align="center">
+  <a href="https://lifergroup.com">Website</a> ·
+  <a href="https://leafaas.com">Product</a> ·
+  <a href="https://idcjk.com">Intelligence</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-AI_Infrastructure-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-Cloud_Automation-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-Developer_Tools-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/base-Hong_Kong_&_GBA-171717?style=flat-square" />
+</p>
+
+<br/>
 
 ---
 
-## What We Are Building
+<br/>
+
+## The Problem We See
+
+Developers and small teams shouldn't need to become cloud architects before launching a product.
+
+Today, going from an idea to a running service still requires too many manual steps — choosing providers, configuring infrastructure, deploying code, managing operations. We're building a system that collapses this into one conversational, automated workflow.
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<br/>
+<strong>💬 Describe</strong><br/>
+<sub>Tell us what you want to build<br/>in natural language</sub>
+<br/><br/>
+</td>
+<td width="33%" align="center">
+<br/>
+<strong>⚡ Deploy</strong><br/>
+<sub>We match resources, generate plans<br/>and ship it live</sub>
+<br/><br/>
+</td>
+<td width="33%" align="center">
+<br/>
+<strong>🔁 Operate</strong><br/>
+<sub>Ongoing maintenance, scaling<br/>and optimization — handled</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## What We're Building
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Leafaas
 
-Leafaas is the core product platform of LiferGroup. It connects natural-language input, cloud resource matching, automated deployment, and ongoing operations into one delivery workflow. Instead of asking users to understand servers, networks, domains, GPU resources, or infrastructure vendors first, Leafaas lets them describe what they want to build and helps turn that request into an executable cloud service plan.
+The core platform. Connects natural-language input → cloud resource matching → automated deployment → ongoing operations into a single delivery workflow.
+
+Users describe what they want. Leafaas turns it into an executable cloud service plan.
+
+→ [leafaas.com](https://leafaas.com)
+
+</td>
+<td width="50%" valign="top">
 
 ### Leaflow
 
-Leaflow is an AI application deployment and delivery system under the Leafaas ecosystem. It focuses on helping developers and teams deploy websites, applications, and AI services with less manual configuration and lower operational overhead.
+AI application deployment and delivery. Deploy websites, apps, and AI services with minimal configuration. Less YAML, less ops, more shipping.
+
+→ [leaflow.net](https://leaflow.net)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### IDCJK
 
-IDCJK is an infrastructure intelligence platform focused on IDC suppliers, cloud resource information, pricing, and supply-chain transparency. It helps Leafaas better understand the infrastructure market and match users with more suitable resources.
+Infrastructure intelligence. Maps IDC suppliers, cloud resources, pricing, and supply-chain data across markets. Gives Leafaas the knowledge to match users with the right resources.
+
+→ [idcjk.com](https://idcjk.com)
+
+</td>
+<td width="50%" valign="top">
 
 ### Backwaves
 
-Backwaves is a cross-border network and AI access acceleration capability connected to the LiferGroup ecosystem, supporting scenarios such as AI platform access, overseas business operations, live streaming, and cross-border e-commerce.
+Cross-border network and AI access acceleration. Supports overseas business operations, livestreaming, AI platform access, and cross-border e-commerce scenarios.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Our Direction
+<br/>
 
-We believe the future of cloud services should be more conversational, automated, and accessible. Developers and small teams should not need to become cloud architects before launching a product. LiferGroup is exploring how AI agents, infrastructure data, and automated DevOps workflows can work together to reduce the gap between an idea and a running service.
+## Technical Direction
+
+<br/>
+
+> We're exploring how AI agents, infrastructure data, and automated DevOps workflows can work together to reduce the gap between an idea and a running service.
+
+<br/>
+
+- **AI-native service delivery** — conversational interfaces over traditional consoles
+- **Infrastructure intelligence** — real-time supply-chain and pricing data for smarter resource allocation
+- **Agent-driven operations** — deployment, monitoring, and scaling handled by AI workflows
+- **Cross-border acceleration** — network capabilities optimized for global AI access
+
+<br/>
 
 ---
 
-## Ecosystem Structure
+<br/>
+
+## Ecosystem
 
 ```
 LiferGroup
-├── lifergroup.com   # Group website, newsroom, public updates
-├── leafaas.com      # Product directory and commercial entry
-├── leaflow.net      # AI application deployment product
-├── idcjk.com        # IDC resource and supplier intelligence
-└── Backwaves        # Cross-border network and AI acceleration services
+│
+├── lifergroup.com ─── Group hub · newsroom · public updates
+├── leafaas.com ────── Product directory · commercial entry
+├── leaflow.net ────── AI app deployment product
+├── idcjk.com ─────── IDC intelligence platform
+└── Backwaves ─────── Cross-border network · AI acceleration
 ```
 
-## Focus Areas
-
-- AI-native cloud service delivery
-- Automated application deployment
-- Infrastructure resource matching
-- Developer tools and agent workflows
-- IDC supply-chain transparency
-- Cross-border network and AI acceleration
+<br/>
 
 ---
 
-## Contact
+<br/>
 
-| | |
-|---|---|
-| **Website** | [lifergroup.com](https://lifergroup.com) |
-| **Product** | [leafaas.com](https://leafaas.com) |
-| **Infrastructure Intelligence** | [idcjk.com](https://idcjk.com) |
+<p align="center">
+  <strong>Build fast. Stay alive. Ship the future.</strong>
+  <br/><br/>
+  <sub>A young AI infrastructure team from Hong Kong & the Greater Bay Area.</sub>
+  <br/>
+  <sub>We combine product design, full-stack engineering, AI infra, and startup execution.</sub>
+  <br/><br/>
+  <a href="https://lifergroup.com">lifergroup.com</a>
+</p>
 
----
+<br/>
 
-<sub>LiferGroup is built by a young AI startup team from Hong Kong and the Greater Bay Area, combining product design, full-stack engineering, AI infrastructure, project operations, and startup execution experience.</sub>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&text=&fontSize=0" width="100%"/>
+</p>
