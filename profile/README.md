@@ -130,23 +130,6 @@ Developers and small teams shouldn't need to become cloud architects before laun
 
 <br/>
 
-## Structure
-
-```
-LiferGroup
-│
-├─ lifergroup.com ──── Group hub · newsroom · updates
-├─ leafaas.com ─────── Product directory · commercial entry (coming soon)
-├─ leaflow.net ─────── AI app deployment
-├─ idcjk.com ──────── IDC intelligence platform
-└─ Backwaves ──────── Cross-border network · AI acceleration
-```
-
-<br/>
-
----
-
-<br/>
 
 <p align="center">
   <strong>Build fast. Stay alive. Ship the future.</strong>
