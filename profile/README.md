@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://lifergroup.com">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leaflow.net">Deploy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://idcjk.com">Intelligence</a>
+  <a href="https://lifergroup.com">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leaflow.net">Deploy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://idcjk.com">Resources</a>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ Developers and small teams shouldn't need to become cloud architects before laun
 
 <p align="center">
   <a href="https://lifergroup.com"><img src="https://img.shields.io/badge/lifergroup.com-website-blue?style=flat-square" /></a>&nbsp;
-  <a href="https://idcjk.com"><img src="https://img.shields.io/badge/idcjk.com-intelligence-blue?style=flat-square" /></a>
+  <a href="https://idcjk.com"><img src="https://img.shields.io/badge/idcjk.com-resources-blue?style=flat-square" /></a>
 </p>
 
 <br/>
