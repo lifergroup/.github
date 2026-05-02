@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./logo.svg" width="200" alt="LiferGroup" />
+  <img src="./logo.svg" width="600" alt="LiferGroup" />
 </p>
 
 <h1 align="center">LiferGroup</h1>
