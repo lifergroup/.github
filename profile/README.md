@@ -113,13 +113,11 @@ Developers and small teams shouldn't need to become cloud architects before laun
 
 <br/>
 
-| | |
-|:--|:--|
-| **AI-native delivery** | Conversational interfaces over traditional cloud consoles |
-| **Infra intelligence** | Real-time supply-chain & pricing data for smarter allocation |
-| **Agent-driven ops** | Deployment, monitoring, and scaling handled by AI workflows |
-| **Global acceleration** | Network capabilities optimized for cross-border AI access |
-| **Server marketplace** | Financial-grade stability at competitive prices, ready to deploy |
+- **AI-native delivery** — Conversational interfaces over traditional cloud consoles
+- **Infra intelligence** — Real-time supply-chain & pricing data for smarter allocation
+- **Agent-driven ops** — Deployment, monitoring, and scaling handled by AI workflows
+- **Global acceleration** — Network capabilities optimized for cross-border AI access
+- **Server marketplace** — Financial-grade stability at competitive prices, ready to deploy
 
 <br/>
 
